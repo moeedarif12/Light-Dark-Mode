@@ -7,8 +7,8 @@ function Form() {
         EVEN ODD CHECKER
       </p>
       <form className="form1">
-        <input className="username" type="" placeholder="EVEN" />
-        <input className="password" type="" placeholder="ODD" />
+        <input className="username" type="" placeholder="EVEN" onKeyUp="isCheck()"/><span id="showmsg"></span>
+        {/* <input className="password" type="" placeholder="ODD" /> */}
         <a className="submit" align="center">
           Check
         </a>
