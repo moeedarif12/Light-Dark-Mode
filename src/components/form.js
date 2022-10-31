@@ -4,7 +4,7 @@ function Form() {
   return (
     <div className="main">
       <p className="sign" align="center">
-        Sign in
+        EVEN ODD CHECKER
       </p>
       <form className="form1">
         <input className="username" type="" placeholder="EVEN" />
