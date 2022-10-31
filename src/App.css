@@ -13,7 +13,7 @@
 }
 
 #dark {
-  background-color: #46045e;
+  background-color: #46a5df;
 }
 
 body {
@@ -34,7 +34,7 @@ body .main {
 }
 
 #dark .main {
-  background-color: #38004c;
+  background-color: #00304c;
 }
 
 .sign {
@@ -62,7 +62,7 @@ body .main {
   border-radius: 20px;
   outline: none;
   box-sizing: border-box;
-  border: 2px solid rgba(0, 0, 0, 0.02);
+  border: 2px solid rgb(249, 249, 249);
   margin-bottom: 50px;
   margin-left: 46px;
   text-align: center;
@@ -101,7 +101,7 @@ form.form1 {
 #dark .username,
 #dark .password {
   color: rgb(254, 255, 255);
-  background: rgba(255, 247, 247, 0.299);
+  background: rgb(255, 255, 255);
 }
 
 .username:focus,
@@ -113,7 +113,7 @@ form.form1 {
   cursor: pointer;
   border-radius: 5em;
   color: #fff;
-  background: linear-gradient(to right, #9c27b0, #e040fb);
+  background: linear-gradient(to right, #27a9b0, #e040fb);
   border: 0;
   padding-left: 40px;
   padding-right: 40px;
