@@ -13,7 +13,7 @@
 }
 
 #dark {
-  background-color: #46a5df;
+  background-color: #00304c;
 }
 
 body {
@@ -30,11 +30,11 @@ body .main {
 }
 
 #light .main {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 #dark .main {
-  background-color: #00304c;
+  background-color: #316c91;
 }
 
 .sign {
@@ -100,7 +100,7 @@ form.form1 {
 
 #dark .username,
 #dark .password {
-  color: rgb(254, 255, 255);
+  color: rgb(0, 0, 0);
   background: rgb(255, 255, 255);
 }
 

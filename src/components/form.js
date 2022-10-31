@@ -7,14 +7,14 @@ function Form() {
         Sign in
       </p>
       <form className="form1">
-        <input className="username" type="text" placeholder="Username" />
-        <input className="password" type="password" placeholder="Password" />
+        <input className="username" type="" placeholder="EVEN" />
+        <input className="password" type="" placeholder="ODD" />
         <a className="submit" align="center">
-          Sign in
+          Check
         </a>
-        <p className="forgot" align="center">
+        {/* <p className="forgot" align="center">
           <a href="#">Forgot Password? </a>
-        </p>
+        </p> */}
       </form>
     </div>
   );
